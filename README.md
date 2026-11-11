@@ -2,6 +2,8 @@
 
 A React inventory dashboard backed by Express and SQLite. It supports staff email/password accounts, rupee-denominated prices, product entry, order viewing, analytics, and an everyday-language inventory assistant.
 
+**Project repository:** [github.com/TrishaGanesha/Shop-Manager](https://github.com/TrishaGanesha/Shop-Manager)
+
 The **Ask your data** screen accepts questions about stock and customer orders and returns matching records from SQLite. It supports all stock, a product's stock, low-stock products, category inventory, inventory value, and today's/all/pending/completed orders. Questions map to predefined SQL queries rather than executing generated SQL.
 
 ## Run locally
